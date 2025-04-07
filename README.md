@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash-Singh23
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently pursuing B.Tech CSE(Data Science) from AKGEC,Ghaziabad.
+- 🌱 I’m a computer science engineer (specialized in Data Science) from AKGEC,Ghaziabad.
 - 💞️ I’m looking to collaborate on projects that make a real-world impact.
 - 📫 To reach me iyashsingh5660@gmail.com
 
